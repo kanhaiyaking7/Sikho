@@ -10,3 +10,5 @@ function abc(){
 function calculate(){
     var ff = 55;
 }
+
+var first = "one";
