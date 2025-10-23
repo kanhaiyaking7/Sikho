@@ -12,3 +12,4 @@ function calculate(){
 }
 
 var first = "one";
+var second= "two";
