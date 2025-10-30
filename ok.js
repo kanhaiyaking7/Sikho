@@ -17,3 +17,8 @@ var second= "two";
 function branchexplain(){
     var newbranch = "raja";
 }
+
+
+function branchsekho(){
+    var newbranchread = "rajabhai";
+}
