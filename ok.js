@@ -27,3 +27,6 @@ function branchsekho(){
 function newfeatureaddbac (){
     var newbranchread = "founder";
 }
+
+var founder  = "kanhaiya";
+var richformula = "sprenglish";
