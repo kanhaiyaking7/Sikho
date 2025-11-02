@@ -30,3 +30,7 @@ function newfeatureaddbac (){
 
 var founder  = "kanhaiya";
 var richformula = "sprenglish";
+
+function newsprenglish (){
+    var seketsucess = "app developer";
+}
