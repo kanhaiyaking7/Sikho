@@ -34,3 +34,6 @@ var richformula = "sprenglish";
 function newsprenglish (){
     var seketsucess = "app developer";
 }
+
+var money = "come from knowledge";
+var power = "money";
