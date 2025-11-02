@@ -1,7 +1,7 @@
 
-const arun = "boy";
+const arun = "kanhiya";
 
-var gi = "hgytu";
+var gi = "king";
 
 function abc(){
     var gg = "aa";
